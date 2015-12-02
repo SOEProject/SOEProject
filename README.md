@@ -1,14 +1,4 @@
-<!doctype html>
-<html>
- 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
-        <p class="view"><a href="https://github.com/projektit/utb">View the Project on GitHub <small>projektit/utb</small></a></p>
 
   </head>
   <body>
