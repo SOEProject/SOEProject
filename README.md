@@ -42,7 +42,7 @@ Never commit in dev as it is only for tracking what others have pushed to remote
 git commit
 </code></pre>
 
-<h3>3. Pusha to remote</h3>
+<h3>3. Push to remote</h3>
 
 <pre><code>git checkout dev
 git pull origin dev
