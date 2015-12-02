@@ -8,7 +8,7 @@
 
 <h3>1. Initiate git</h3>
 
-<pre><code>git clone -b dev https://github.com/projektit/app_prod.git
+<pre><code>git clone -b dev https://github.com/SOEProject/SOEProject.git
 </code></pre>
 
 <p>
