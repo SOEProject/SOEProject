@@ -1,4 +1,6 @@
+#SOE Project
 
+#How to use Git
 
 <h3>0. Install git</h3>
 <p>http://git-scm.com/downloads
