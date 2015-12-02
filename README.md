@@ -7,8 +7,10 @@
       <header>
         <h1>SOE Project</h1>
         <p></p>
-
-        <p class="view"><a href="https://github.com/projektit/utb">View the Project on GitHub <small>projektit/utb</small></a></p>
+         <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Utb by projektit</title>
 
 
       </header>
