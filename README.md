@@ -1,11 +1,5 @@
 
 
-
-
-      </header>
-      <section>
-        <h2>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to work with git</h2>
 <h3>0. Install git</h3>
 <p>http://git-scm.com/downloads
 </p>
